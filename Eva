@@ -1,0 +1,19 @@
+Primer paso loguerse:
+git confin global -- user.name (ingresar nombre de usuario)  
+git confin global -- user.email (ingresar email)
+
+segundo paso iniciar git:
+git init (iniciar repositorio)
+
+tercer paso, revisar el destino:
+git remote -v (para revisar el origen anterior) 
+git remote remove origin (remueve el origen remoto)
+git remote add origin "link"(añade un origen remoto)
+
+git status (revisar el estado)
+
+4 paso, comienza el guardado:
+git add(añade los cambios)
+git commit -m "nombre" (le da un nombre)
+git branch -m main (abre una rama)
+git push -u origin main (guarda los cambios)
