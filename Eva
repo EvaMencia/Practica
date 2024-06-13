@@ -1,6 +1,6 @@
 Primer paso loguerse:
-git confin global -- user.name (ingresar nombre de usuario)  
-git confin global -- user.email (ingresar email)
+git confin --global  user.name (ingresar nombre de usuario)  
+git confin --global  user.email (ingresar email)
 
 segundo paso iniciar git:
 git init (iniciar repositorio)
